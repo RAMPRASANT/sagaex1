@@ -1,0 +1,74 @@
+.container{
+    
+width:40%;
+height: auto;
+margin-left:33%;
+margin-top:5%; 
+}
+
+
+
+.Formpagewrap{ 
+   
+margin-left:2%;
+padding: 45px;
+width:70%;
+height: 61vh;
+}
+
+
+
+.skipOption{
+
+    margin-left: 78%;
+    margin-top:-28px;
+    
+}
+
+.checkmark{
+
+    width:20px;
+    height:20px
+}
+
+.navbutton{
+
+    width:40%;
+    margin-left:7%;
+    color: black;
+}
+.navbutton:hover{
+
+    background-color:#ccc;
+    list-style-type: none;
+}
+
+.expirydate{
+
+    margin-left: 21%;
+    margin-top:-69px;
+}
+
+.cvnumber{
+    
+    margin-left: 71%;
+    margin-top:-74px;
+
+}
+
+.city{
+
+    margin-left: 30%;
+    margin-top:-73px;
+
+}
+
+.zip{
+    margin-left: 71%;
+    margin-top:-73px;
+
+}
+.SqaureText{
+    border-radius: 0%;
+    background-color:whitesmoke;
+}
